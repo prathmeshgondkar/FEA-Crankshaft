@@ -3,7 +3,7 @@
 This project presents a comparative static FEA of a crankshaft made with two materials under identical loading and boundary conditions.
 
 ### 🧱 Crankshaft Model
-![Crankshaft Geometry](images/Crank_Shaft.png)
+Crankshaft Geometry-![(images/Crank_Shaft.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/31fecfc7c9b440c283ed15a93795e293a0b8ed10/Crank%20Shaft.png)
 
 ## 📌 Objective
 To compare structural performance—stress, deflection, and strain—of:
