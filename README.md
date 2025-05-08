@@ -3,7 +3,7 @@
 This project presents a comparative static FEA of a crankshaft made with two materials under identical loading and boundary conditions.
 
 ### 🧱 Crankshaft Model
-Crankshaft Geometry-![(images/Crank_Shaft.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/31fecfc7c9b440c283ed15a93795e293a0b8ed10/Crank%20Shaft.png)
+![(images/Crank_Shaft.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/31fecfc7c9b440c283ed15a93795e293a0b8ed10/Crank%20Shaft.png)
 
 ## 📌 Objective
 To compare structural performance—stress, deflection, and strain—of:
@@ -28,9 +28,9 @@ To compare structural performance—stress, deflection, and strain—of:
 ## 📊 Results
 
 ### Stress Distribution Comparison
-AISI 4130-[!(images/Stress_Static_1.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%201.png)
+AISI 4130-![(https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%201.png)]
 
-Cast Alloy Steel-[![Stress Cast Alloy Steel](images/Stress_Static_2.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%202.png)
+Cast Alloy Steel-![(https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%202.png)]
 
 ### Displacement Comparison
 AISI 4130-![Displacement AISI 4130](images/Displacement_Static_1.png)
