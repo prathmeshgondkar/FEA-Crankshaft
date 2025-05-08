@@ -28,7 +28,7 @@ To compare structural performance—stress, deflection, and strain—of:
 ## 📊 Results
 
 ### Stress Distribution Comparison
-AISI 4130-[(images/Stress_Static_1.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%201.png)
+AISI 4130-![(images/Stress_Static_1.png)](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%201.png)
 Cast Alloy Steel-![Stress Cast Alloy Steel](images/Stress_Static_2.png)
 
 ### Displacement Comparison
