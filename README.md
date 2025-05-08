@@ -25,16 +25,8 @@ To compare structural performance—stress, deflection, and strain—of:
 ## 📊 Results
 
 ### Von Mises Stress
-[Stress - AISI 4130](images/stress_static_1.png)
-[Stress - Cast Steel](images/stress_static_2.png)
-
 ### Displacement
-[Displacement - AISI 4130](images/displacement_static_1.png)
-[Displacement - Cast Steel](images/displacement_static_2.png)
-
 ### Strain
-[Strain - AISI 4130](images/strain_static_1.png)
-[Strain - Cast Steel](images/strain_static_2.png)
 
 ## 🧠 Key Insights
 - Both materials showed **similar stress distribution** (~38 MPa).
