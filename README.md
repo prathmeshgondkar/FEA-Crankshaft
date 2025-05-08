@@ -34,7 +34,7 @@ To compare structural performance—stress, deflection, and strain—of:
 - Cast steel is lighter but reaches its material limit faster.
 
 ## 📎 Full Report
-👉 [Link to PDF or DOCX version here]
+👉 FEA Crankshaft Report.pdf
 
 ## 🔗 Author
 Prathmesh Deepak Gondkar  
