@@ -59,4 +59,13 @@ Cast Alloy Steel-![images/Mesh_Static_2.png](https://github.com/prathmeshgondkar
 Prathmesh Deepak Gondkar  
 [LinkedIn](https://www.linkedin.com/in/prathmeshgondkar)
 
-Note:- The primary result files (Static1.cwr and Static2.cwr) are currently missing and could not be uploaded due to size limitations. I am working on a way to include them and will update the repository once resolved.
+⚠️ Note on Simulation Files
+Due to size limitations, the primary result files (CRANK SHAFT1-Static 1 and CRANK SHAFT1-Static 2) were too large to upload directly to GitHub.
+
+You can download them from the links below and place them inside the main project folder to view full simulation results in SolidWorks:
+
+🔗 [CRANK SHAFT1-Static 1.CWR](https://drive.proton.me/urls/Q65GYG4R54#60latyVkk4j1)
+
+🔗 [CRANK SHAFT1-Static 2.CWR](https://drive.proton.me/urls/Y5HGFGM54C#dsnvPZGCi2pQ)
+
+These files are essential for opening and exploring the results interactively within SolidWorks Simulation.
