@@ -9,7 +9,7 @@ To compare structural performance—stress, deflection, and strain—of:
 
 ## 🔧 Model Details
 - **Geometry:** Single-throw crankshaft (same for both cases)
-- **Load:** 16,000 N at crankpin (center)
+- **Load:** 16,000 N at crankpin (centre)
 - **Supports:** Fixed hinges on both ends
 - **Software:** SolidWorks Simulation (Static Study)
 
