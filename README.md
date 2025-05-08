@@ -30,19 +30,22 @@ To compare structural performance—stress, deflection, and strain—of:
 ### Stress Distribution Comparison
 AISI 4130- ![images/Stress Static 1.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%201.png)
 
-Cast Alloy Steel-![(https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%202.png)]
+Cast Alloy Steel-![imags/Stress Static 2.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Stress%20Static%202.png)
 
 ### Displacement Comparison
-AISI 4130-![Displacement AISI 4130](images/Displacement_Static_1.png)
-Cast Alloy Steel-![Displacement Cast Alloy Steel](images/Displacement_Static_2.png)
+AISI 4130-![images/Displacement Static 1.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Displacement%20Static%201.png)
+
+Cast Alloy Steel-![images/Displacement Static 2.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Displacement%20Static%202.png)
 
 ### Strain Distribution
-AISI 4130-![Strain AISI 4130](images/Strain_Static_1.png)
-Cast Alloy Steel-![Strain Cast Alloy Steel](images/Strain_Static_2.png)
+AISI 4130-![images/Strain_Static_1.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Strain%20Static%201.png)
+
+Cast Alloy Steel-![images/Strain_Static_2.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Strain%20Static%201.png)
 
 ### Mesh Quality
-AISI 4130-![Mesh AISI 4130](images/Mesh_Static_1.png)
-Cast Alloy Steel-![Mesh Cast Alloy Steel](images/Mesh_Static_2.png)
+AISI 4130-![images/Mesh_Static_1.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Mesh%20Static%201.png)
+
+Cast Alloy Steel-![images/Mesh_Static_2.png](https://github.com/prathmeshgondkar/FEA-Crankshaft/blob/33d1415176e0d944da1a5c4545a273010d70f1fc/Mesh%20Static%202.png)
 
 ## 🧠 Key Insights
 - Both materials showed **similar stress distribution** (~38 MPa).
