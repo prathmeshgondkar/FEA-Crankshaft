@@ -1,6 +1,9 @@
 # 🔩 Finite Element Analysis of a Crankshaft – AISI 4130 vs Cast Alloy Steel
 
-This project presents a comparative static FEA of a crankshaft made with two different materials under identical loading and boundary conditions.
+This project presents a comparative static FEA of a crankshaft made with two materials under identical loading and boundary conditions.
+
+### 🧱 Crankshaft Model
+![Crankshaft Geometry](images/Crank_Shaft.png)
 
 ## 📌 Objective
 To compare structural performance—stress, deflection, and strain—of:
@@ -24,13 +27,25 @@ To compare structural performance—stress, deflection, and strain—of:
 
 ## 📊 Results
 
-### Von Mises Stress
-### Displacement
-### Strain
+### Stress Distribution Comparison
+AISI 4130-![Stress AISI 4130](images/Stress_Static_1.png)
+Cast Alloy Steel-![Stress Cast Alloy Steel](images/Stress_Static_2.png)
+
+### Displacement Comparison
+AISI 4130-![Displacement AISI 4130](images/Displacement_Static_1.png)
+Cast Alloy Steel-![Displacement Cast Alloy Steel](images/Displacement_Static_2.png)
+
+### Strain Distribution
+AISI 4130-![Strain AISI 4130](images/Strain_Static_1.png)
+Cast Alloy Steel-![Strain Cast Alloy Steel](images/Strain_Static_2.png)
+
+### Mesh Quality
+AISI 4130-![Mesh AISI 4130](images/Mesh_Static_1.png)
+Cast Alloy Steel-![Mesh Cast Alloy Steel](images/Mesh_Static_2.png)
 
 ## 🧠 Key Insights
 - Both materials showed **similar stress distribution** (~38 MPa).
-- AISI 4130 had **better performance** in terms of stiffness, strain, and safety factor.
+- AISI 4130 had **better performance** regarding stiffness, strain, and safety factor.
 - Cast steel is lighter but reaches its material limit faster.
 
 ## 📎 Full Report
@@ -40,3 +55,4 @@ To compare structural performance—stress, deflection, and strain—of:
 Prathmesh Deepak Gondkar  
 [LinkedIn](https://www.linkedin.com/in/prathmeshgondkar)
 
+Note:- The primary result files (Static1.cwr and Static2.cwr) are currently missing and could not be uploaded due to size limitations. I am working on a way to include them and will update the repository once resolved.
